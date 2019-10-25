@@ -1,4 +1,7 @@
 # Hacktoberfest 2019
 
-timotius welly pranata
-2301850506
+# Sendy Sanjaya
+# 2301866441
+
+# timotius welly pranata
+# 2301850506
